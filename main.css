@@ -83,7 +83,7 @@ button:active{
         width: 100px;
         height: 100px;
         border-radius: 50px;
-        align-items: center;
+        align-content: center;
     }
     #display{
         width: 92%;
